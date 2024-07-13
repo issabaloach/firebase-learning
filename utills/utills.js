@@ -21,14 +21,14 @@ import {
   getDownloadURL,
 } from "https://www.gstatic.com/firebasejs/10.12.3/firebase-storage.js";
 const firebaseConfig = {
-    apiKey: "AIzaSyBSsqyqcUm7jxZXry8ig-w_2D-ZD9w-Dew",
-    authDomain: "fireblearn03.firebaseapp.com",
-    projectId: "fireblearn03",
-    storageBucket: "fireblearn03.appspot.com",
-    messagingSenderId: "731574884192",
-    appId: "1:731574884192:web:d678e5b84ee059d2afb005",
-    measurementId: "G-FNYP7ZH911"
-  };
+  apiKey: "AIzaSyBSsqyqcUm7jxZXry8ig-w_2D-ZD9w-Dew",
+  authDomain: "fireblearn03.firebaseapp.com",
+  projectId: "fireblearn03",
+  storageBucket: "fireblearn03.appspot.com",
+  messagingSenderId: "731574884192",
+  appId: "1:731574884192:web:d678e5b84ee059d2afb005",
+  measurementId: "G-FNYP7ZH911"
+};
 
   const app = initializeApp(firebaseConfig);
 
